@@ -1,0 +1,13 @@
+ToDo:
+- set up debugger: https://github.com/BrooklinJazz/debugging_elixir
+
+Questions:
+- where are the types?
+- why possible to rebind variables?
+- why can't modules hold variables?
+- why tuples.exs not get read?
+
+Phoenix:
+- If the trick to Live View is WebSockets, why couldn't it be implemented in Node?
+- 
+
